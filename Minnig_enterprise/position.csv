@@ -1,0 +1,19 @@
+pos_id;name;grp_id
+1;General Director;3
+2;Deputy GD;3
+3;HR head;1
+4;HR supervisor;1
+5;HR specialist;1
+6;Chief accounter;2
+7;Fin specialist;2
+8;Head of TS;4
+9;Dispatcher;4
+10;Driver;4
+11;WH head;5
+12;WH specialist;5
+13;Head of mining;6
+14;Mining specialist;6
+15;Head of production;7
+16;Production specialist;7
+17;QC head;8
+18;QC specialist;8

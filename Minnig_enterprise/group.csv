@@ -1,0 +1,9 @@
+grp_id;name;dir_id
+1;HR team;1
+2;Finance team;1
+3;General Managment;1
+4;Transport service;2
+5;Warehouse service;2
+6;Mining group;3
+7;Production group;3
+8;Quality control group;3
